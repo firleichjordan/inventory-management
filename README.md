@@ -43,3 +43,7 @@ Join our [Discord community](https://discord.com/channels/1070200085440376872/12
 - [Data model diagram](https://drawsql.app/teams/team-3023/diagrams/56-inventorymanagement)
 - [Prisma schema file](https://github.com/ed-roh/inventory-management/blob/master/server/prisma/schema.prisma)
 - [AWS commands](https://github.com/ed-roh/inventory-management/blob/master/server/aws-ec2-instructions.md) -->
+
+https://github.com/firleichjordan/inventory-management.git
+
+rds-inventorymanagement.c7eoou6skd4w.ap-southeast-1.rds.amazonaws.com
